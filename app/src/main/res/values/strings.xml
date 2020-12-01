@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+     <string name="btnAddText">Agregar</string>
+    <string name="chkCompleteText">Completo</string>
+    <string name="tietTitleHint">Titulo</string>
+    <string name="tvTitleAddToDoText">Agregar ToDo</string>
+    <string name="tietUserIdHint">ID Usuario</string>
+    <string name="btnDeleteToDoText">Eliminar</string>
+    <string name="btnUpdateToDoText">Actualizar</string>
+    <string name="tvTitleDetailToDoText">Detalle ToDo</string>
+    <string name="completed">Completo</string>
+    <string name="uncompleted">Incompleto</string>
+    <string name="loadToDos">Cargando ToDos</string>
+    <string name="addToDo">Agregando ToDo</string>
+    <string name="addToDoSuccessfully">ToDo agregado correctamente</string>
+    <string name="addToDoUnsuccessfully">No se pudo agregar ToDo</string>
+    <string name="loadToDoUnsuccessfully">No se pudo cargar ToDo</string>
+    <string name="retroError">RetroError</string>
+    <string name="loadTodo">Cargando ToDo</string>
+    <string name="updateToDoUnsuccessfully">No se pudo actualizar ToDo</string>
+    <string name="updateToDoSuccessfully">ToDo actualizado correctamente</string>
+    <string name="updatingToDo">Actualizando ToDo</string>
+    <string name="deleteToDoSuccessfully">ToDo eliminado correctamente</string>
+    <string name="deleteToDoUnsuccessfully">No se pudo eliminar ToDo</string>
+    <string name="deletingToDo">Eliminando ToDo</string>
+    <string name="loadToDosUnsuccessfully">No se pudo cargar los datos</string>
+    <string name="userId">"ID Usuario: "</string>
+    <string name="errorUserIdEmpty">Ingrese un ID Usuario</string>
+    <string name="errorTitleEmpty">Ingrese un Título</string>
+    <string name="ok">OK</string>
+    <string name="result">Resultado</string>
+</resources>
